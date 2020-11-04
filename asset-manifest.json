@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-interpolation-example/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/simple-interpolation-example/static/js/main.7417d4aa.chunk.js",
+    "main.js.map": "/simple-interpolation-example/static/js/main.7417d4aa.chunk.js.map",
+    "runtime-main.js": "/simple-interpolation-example/static/js/runtime-main.c9d4f12c.js",
+    "runtime-main.js.map": "/simple-interpolation-example/static/js/runtime-main.c9d4f12c.js.map",
+    "static/js/2.df2d2a2c.chunk.js": "/simple-interpolation-example/static/js/2.df2d2a2c.chunk.js",
+    "static/js/2.df2d2a2c.chunk.js.map": "/simple-interpolation-example/static/js/2.df2d2a2c.chunk.js.map",
+    "static/js/3.76441ea5.chunk.js": "/simple-interpolation-example/static/js/3.76441ea5.chunk.js",
+    "static/js/3.76441ea5.chunk.js.map": "/simple-interpolation-example/static/js/3.76441ea5.chunk.js.map",
+    "index.html": "/simple-interpolation-example/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/simple-interpolation-example/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.df2d2a2c.chunk.js.LICENSE.txt": "/simple-interpolation-example/static/js/2.df2d2a2c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/simple-interpolation-example/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d4f12c.js",
+    "static/js/2.df2d2a2c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.7417d4aa.chunk.js"
+  ]
+}
