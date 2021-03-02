@@ -33,7 +33,7 @@
     "lint:fix": "eslint ./ --ignore-path .gitignore -- --fix",
     "test": "react-scripts test --watchAll=false --forceExit --coverage --silent",
     "test:dev": "react-scripts test --silent",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
