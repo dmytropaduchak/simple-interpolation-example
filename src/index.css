@@ -1,0 +1,108 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-weight: 100;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+.title {
+  font-size: 74px;
+  line-height: 0.8;
+  text-shadow: 1px 1px 6px white;
+}
+.description {
+  font-size: 18px;
+  line-height: 1.5;
+  text-shadow: 1px 1px 3px white;
+}
+
+.ant-layout {
+  background: #4CA1AF;
+  background: -webkit-linear-gradient(to right, #4CA1AF, #C4E0E5);
+  background: linear-gradient(to right, #4CA1AF, #C4E0E5);
+  text-align: center;
+  color: #fff;
+  height: 100vh;
+}
+.ant-layout-header {
+  width: 100%;
+  position: absolute;
+}
+.ant-layout-footer,
+.ant-layout-header {
+  background: transparent;
+}
+.ant-layout-content {
+  margin-top: 50px;
+}
+.ant-layout-content > .ant-row {
+  min-height: 100%;
+}
+.ant-layout-footer {
+  padding: 0;
+}
+.ant-layout-footer .ant-btn-link {
+  color: rgba(0, 0, 0, 0.35);
+}
+.ant-layout-footer > .ant-row,
+.ant-layout-header > .ant-row,
+.ant-layout-content > .ant-row {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.ant-layout-footer .ant-col a {
+  font-weight: 200;
+  padding-left: 0;
+  padding-right: 0;
+}
+.ant-layout-footer .ant-col,
+.ant-layout-content .ant-col {
+  text-align: center;
+  
+}
+.ant-layout-content .ant-input-number {
+  width: 100%;
+}
+
+.ant-layout-content .ant-form {
+  background-color: #fff;
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+  padding: 12px;
+}
+
+.ant-layout-content .ant-form .ant-form-item {
+  margin-bottom: 0;
+}
+
+.ant-form-item-explain, .ant-form-item-extra {
+  min-height: 0;
+}
+
+.github-btn {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .ant-layout-content > .ant-row {
+    flex-direction: row;
+  }
+  .ant-layout-footer .ant-col:first-child,
+  .ant-layout-content .home-content .ant-col:first-child,
+  .ant-layout-content .forbidden-content .ant-col:last-child,
+  .ant-layout-content .not-found-content .ant-col:last-child {
+    text-align: left;
+  }
+  .ant-layout-footer .ant-col:last-child,
+  .ant-layout-content .forbidden-content .ant-col:first-child,
+  .ant-layout-content .not-found-content .ant-col:first-child,
+  .ant-layout-header .ant-col:last-child  {
+    text-align: right;
+  }
+}
+.ant-row {
+  margin: -4px -4px 4px;
+}
+.ant-col {
+  padding: 4px;
+}
