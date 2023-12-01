@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/simple-interpolation-example/static/css/main.89711e75.chunk.css",
-    "main.js": "/simple-interpolation-example/static/js/main.34d5f3d6.chunk.js",
-    "main.js.map": "/simple-interpolation-example/static/js/main.34d5f3d6.chunk.js.map",
+    "main.js": "/simple-interpolation-example/static/js/main.c0405641.chunk.js",
+    "main.js.map": "/simple-interpolation-example/static/js/main.c0405641.chunk.js.map",
     "runtime-main.js": "/simple-interpolation-example/static/js/runtime-main.e70df1de.js",
     "runtime-main.js.map": "/simple-interpolation-example/static/js/runtime-main.e70df1de.js.map",
     "static/css/2.8a80de6a.chunk.css": "/simple-interpolation-example/static/css/2.8a80de6a.chunk.css",
-    "static/js/2.26a21ff1.chunk.js": "/simple-interpolation-example/static/js/2.26a21ff1.chunk.js",
-    "static/js/2.26a21ff1.chunk.js.map": "/simple-interpolation-example/static/js/2.26a21ff1.chunk.js.map",
+    "static/js/2.261df45a.chunk.js": "/simple-interpolation-example/static/js/2.261df45a.chunk.js",
+    "static/js/2.261df45a.chunk.js.map": "/simple-interpolation-example/static/js/2.261df45a.chunk.js.map",
     "index.html": "/simple-interpolation-example/index.html",
     "static/css/2.8a80de6a.chunk.css.map": "/simple-interpolation-example/static/css/2.8a80de6a.chunk.css.map",
     "static/css/main.89711e75.chunk.css.map": "/simple-interpolation-example/static/css/main.89711e75.chunk.css.map",
-    "static/js/2.26a21ff1.chunk.js.LICENSE.txt": "/simple-interpolation-example/static/js/2.26a21ff1.chunk.js.LICENSE.txt"
+    "static/js/2.261df45a.chunk.js.LICENSE.txt": "/simple-interpolation-example/static/js/2.261df45a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e70df1de.js",
     "static/css/2.8a80de6a.chunk.css",
-    "static/js/2.26a21ff1.chunk.js",
+    "static/js/2.261df45a.chunk.js",
     "static/css/main.89711e75.chunk.css",
-    "static/js/main.34d5f3d6.chunk.js"
+    "static/js/main.c0405641.chunk.js"
   ]
 }
